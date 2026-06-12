@@ -25,4 +25,4 @@
 | **HW4** | 🔗 [點此前往 HW4 專案](https://github.com/yawem0525/_ml/tree/master/HW4) | 🤖 不會寫，參考沈心怡的  |
 | **HW5** | 🔗 [點此前往 HW5 專案](https://github.com/yawem0525/_ml/tree/master/HW5) | 🤖 參考 Gemini  |
 | **HW6** | 🔗 [點此前往 HW6 專案](https://github.com/yawem0525/_ml/tree/master/HW6) | 🤖 參考 Gemini  |
-| **期中** | 🔗 [點此前往 期中 專案](https://github.com/yawem0525/_ml/tree/master/%E6%9C%9F%E4%B8%AD) | 🤖 問GEMINI並按照AI測試 |
+| **期中** | 🔗 [點此前往 期中 專案](https://github.com/yawem0525/_ml/tree/master/%E6%9C%9F%E4%B8%AD) | 🤖 程式問GEMINI並按照AI進行測試，裡面有報告 |
